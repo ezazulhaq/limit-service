@@ -1,0 +1,2 @@
+# Limits services
+GET http://localhost:8081/limits HTTP/1.1
